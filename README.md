@@ -1,3 +1,1 @@
-Brick breaker game
-\n
-console game developed in C++
+Brick breaker console game developed in C++
